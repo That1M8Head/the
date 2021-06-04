@@ -9,3 +9,9 @@ the <literally anything that can be run>
 ```
 No, that's it. That's all it is.
 If it runs, it runs. If it doesn't, then it doesn't!
+### Building
+Use the build script, m8. <br>
+Or just:
+```
+gcc -o the the.c
+```
