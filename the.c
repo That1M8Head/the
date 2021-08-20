@@ -17,6 +17,6 @@ int main(int argc, char* argv[])
     }
   else
     {
-      printf("The...\n");
+      printf("The... The?\n");
     }
 }
